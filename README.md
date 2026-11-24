@@ -4,4 +4,4 @@ My personal recipe collection. Each recipe is a Markdown file in the `recipes/` 
 
 ## Recipes
 
-_No recipes yet._
+- [Pancakes](recipes/pancakes.md)
